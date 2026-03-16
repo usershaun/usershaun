@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I’m Shaun 👋
 
-<!--
-**usershaun/usershaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student passionate about building practical projects that actually work in the real world.  
+I like writing clean code, solving problems, and learning new technologies as I go.  
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Currently exploring Python, C++, and web development.  
+- 📚 Enjoy breaking down complex problems into simple, understandable solutions.  
+- 🛠️ I’m always experimenting with small projects — from data analysis to interactive web apps.  
+- 🎯 Focused on building a portfolio that shows **what I can actually do**, not just buzzwords.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Working On
+- A transcript analyzer that turns CSVs into interactive charts.  
+- A portfolio website that’s modern, lightweight, and fully responsive. 
