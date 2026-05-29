@@ -1,14 +1,30 @@
-# Hey, I’m Shaun 👋
+# Hi, I’m Shaun 
 
-I’m a Computer Science student passionate about building practical projects that actually work in the real world.  
-I like writing clean code, solving problems, and learning new technologies as I go.  
+🎓 Final-year BSc Computing student
 
-## About Me
-- 💻 Currently exploring Python, C++, and web development.  
-- 📚 Enjoy breaking down complex problems into simple, understandable solutions.  
-- 🛠️ I’m always experimenting with small projects — from data analysis to interactive web apps.  
-- 🎯 Focused on building a portfolio that shows **what I can actually do**, not just buzzwords.  
+💻 Interested in Software Development, Databases, Web Development, and Problem Solving.
 
-## What I’m Working On
-- A transcript analyzer that turns CSVs into interactive charts.  
-- A portfolio website that’s modern, lightweight, and fully responsive. 
+## Technologies
+
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## Currently Working On
+
+- Building portfolio projects
+- Improving my software development skills
+- Learning modern development tools and workflows
+
+## Goals for 2026
+
+- Complete my BSc in Computing
+- Build a strong portfolio
+- Contribute to open-source projects
+- Start my career as a software developer
+
+## Connect With Me
