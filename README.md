@@ -1,30 +1,10 @@
-# Hi, I’m Shaun 
+Hi, I'm Shaun
 
-🎓 Final-year BSc Computing student
+Final-year BSc Computing student at UNISA, finishing in December 2026. I'm looking for an entry-level software developer role.
 
-💻 Interested in Software Development, Databases, Web Development, and Problem Solving.
+Projects
+Expense Tracker API: a REST API built with FastAPI and SQLite.
+Final Space Station: my UNISA COS3712 project. Live demo
+Skills
 
-## Technologies
-
-- C++
-- Python
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Git & GitHub
-
-## Currently Working On
-
-- Building portfolio projects
-- Improving my software development skills
-- Learning modern development tools and workflows
-
-## Goals for 2026
-
-- Complete my BSc in Computing
-- Build a strong portfolio
-- Contribute to open-source projects
-- Start my career as a software developer
-
-## Connect With Me
+TypeScript, JavaScript, Python, C++, SQL, HTML/CSS, React, FastAPI, Git
